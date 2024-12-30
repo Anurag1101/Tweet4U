@@ -60,27 +60,27 @@ To run this project, you'll need:
 
 Open your web browser and go to `http://127.0.0.1:8000/` to access the application.
 
-Project Structure
-The project directory structure looks like this:
+## Project Structure
 
-php
-Copy code
-tweet4u/
-├── tweet4u/           # Main project folder
-│   ├── settings.py    # Django settings
-│   ├── urls.py        # URL configuration
-│   └── wsgi.py        # WSGI entry point for deployment
-├── tweet/             # Tweet application folder
-│   ├── migrations/    # Database migrations
-│   ├── models.py      # Tweet models
-│   ├── views.py       # Views to handle requests
-│   ├── urls.py        # URLs specific to the tweet application
-│   └── templates/     # HTML templates for the tweet app
-├── static/            # Static files (e.g., images, JS, CSS)
-│   └── css/           # Custom CSS (if any)
-├── templates/         # Global templates
-│   └── base.html      # Base template that includes header, footer, and navbar
-└── manage.py          # Django management script
+### The project directory structure looks like this:
+
+    tweet4u/
+    ├── tweet4u/           # Main project folder
+    │   ├── settings.py    # Django settings
+    │   ├── urls.py        # URL configuration
+    │   └── wsgi.py        # WSGI entry point for deployment
+    ├── tweet/             # Tweet application folder
+    │   ├── migrations/    # Database migrations
+    │   ├── models.py      # Tweet models
+    │   ├── views.py       # Views to handle requests
+    │   ├── urls.py        # URLs specific to the tweet application
+    │   └── templates/     # HTML templates for the tweet app
+    ├── static/            # Static files (e.g., images, JS, CSS)
+    │   └── css/           # Custom CSS (if any)
+    ├── templates/         # Global templates
+    │   └── base.html      # Base template that includes header, footer, and navbar
+    └── manage.py          # Django management script
+
 Key Files:
 base.html: The base HTML template for the application. Other pages like the homepage, create tweet, and search results extend this template to maintain a consistent layout and styling.
 tweet/create.html: Template for creating new tweets.
