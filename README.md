@@ -95,11 +95,16 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 - **URL Routing**: The urls.py files in both the project folder and the tweet app folder define the URL structure and routing for the application.
   
-Usage
-Home Page: View a list of all tweets posted by users.
-Create Tweet: Authenticated users can create a new tweet by visiting /tweet/create/.
-Search Tweets: Use the search bar to find tweets by keyword.
-Logout: Users can log out using the logout button in the navigation bar.
+## Usage:
+
+- **Home Page**: View a list of all tweets posted by users.
+  
+- **Create Tweet**: Authenticated users can create a new tweet by visiting `/tweet/create/`.
+  
+- **Search Tweets**: Use the search bar to find tweets by keyword.
+  
+- **Logout**: Users can log out using the logout button in the navigation bar.
+  
 Dependencies
 Django: A high-level Python web framework.
 Bootstrap 5: A CSS framework used to create a responsive and modern UI.
