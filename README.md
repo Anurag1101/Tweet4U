@@ -105,10 +105,14 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 - **Logout**: Users can log out using the logout button in the navigation bar.
   
-Dependencies
-Django: A high-level Python web framework.
-Bootstrap 5: A CSS framework used to create a responsive and modern UI.
-SQLite: The default database for this project (you can switch to other databases like PostgreSQL or MySQL by modifying settings).
+## Dependencies:
+
+- Django: A high-level Python web framework.
+  
+- Bootstrap 5: A CSS framework used to create a responsive and modern UI.
+  
+- SQLite: The default database for this project (you can switch to other databases like PostgreSQL or MySQL by modifying settings).
+  
 Contributing
 Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name.
