@@ -30,19 +30,16 @@ To run this project, you'll need:
 
 ## Step-by-Step Installation
 
-- Clone the Repository
+### Clone the Repository
 
     git clone https://github.com/your-username/tweet4u.git
     cd tweet4u
 
-- Set Up a Virtual Environment
+### Set Up a Virtual Environment
 
-It's recommended to use a virtual environment to manage project dependencies:
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Install Required Packages
 
 Install the required dependencies listed in requirements.txt:
