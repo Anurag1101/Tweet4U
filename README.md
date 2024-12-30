@@ -113,12 +113,18 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 - **SQLite:** The default database for this project (you can switch to other databases like PostgreSQL or MySQL by modifying settings).
   
-Contributing
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Make your changes and commit them: git commit -am 'Add new feature'.
-Push your changes: git push origin feature-name.
-Submit a pull request with a description of your changes.
+## Contributing:
+
+- Fork the repository.
+  
+- Create a new branch for your feature: git checkout -b feature-name.
+  
+- Make your changes and commit them: git commit -am 'Add new feature'.
+  
+- Push your changes: git push origin feature-name.
+  
+- Submit a pull request with a description of your changes.
+  
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
