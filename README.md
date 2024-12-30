@@ -89,9 +89,12 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 - **tweet/index.html**: Displays the list of tweets.
   
-Configuration
-Settings: The settings for the Django application can be found in the settings.py file. You can configure the database, static files, installed apps, etc., here.
-URL Routing: The urls.py files in both the project folder and the tweet app folder define the URL structure and routing for the application.
+## Configuration:
+
+- **Settings**: The settings for the Django application can be found in the settings.py file. You can configure the database, static files, installed apps, etc., here.
+  
+- **URL Routing**: The urls.py files in both the project folder and the tweet app folder define the URL structure and routing for the application.
+  
 Usage
 Home Page: View a list of all tweets posted by users.
 Create Tweet: Authenticated users can create a new tweet by visiting /tweet/create/.
