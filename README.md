@@ -115,15 +115,15 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 ## Contributing:
 
-- Fork the repository.
+- **Fork the repository.**
   
-- Create a new branch for your feature: git checkout -b feature-name.
+- **Create a new branch for your feature:** `git checkout -b feature-name`.
   
-- Make your changes and commit them: git commit -am 'Add new feature'.
+- **Make your changes and commit them:** `git commit -am 'Add new feature'`.
   
-- Push your changes: git push origin feature-name.
+- **Push your changes:** `git push origin feature-name`.
   
-- Submit a pull request with a description of your changes.
+- **Submit a pull request with a description of your changes.**
   
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
