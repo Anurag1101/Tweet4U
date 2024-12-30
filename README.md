@@ -40,37 +40,25 @@ To run this project, you'll need:
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-Install Required Packages
+### Install Required Packages
 
-Install the required dependencies listed in requirements.txt:
+    pip install -r requirements.txt
+    
+### Set Up the Database
 
-bash
-Copy code
-pip install -r requirements.txt
-Set Up the Database
+    python manage.py migrate
 
-Run the following commands to migrate the database:
+### Create a Superuser (Optional)
 
-bash
-Copy code
-python manage.py migrate
-Create a Superuser (Optional)
+    python manage.py createsuperuser
 
-If you want to access the admin interface, you can create a superuser:
+### Run the Development Server
 
-bash
-Copy code
-python manage.py createsuperuser
-Run the Development Server
+    python manage.py runserver
 
-Start the Django development server:
+### Access the Application
 
-bash
-Copy code
-python manage.py runserver
-Access the Application
-
-Open your web browser and go to http://127.0.0.1:8000/ to access the application.
+Open your web browser and go to `http://127.0.0.1:8000/` to access the application.
 
 Project Structure
 The project directory structure looks like this:
