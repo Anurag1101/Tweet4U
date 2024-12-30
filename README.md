@@ -20,24 +20,22 @@ experience while incorporating standard social media features.
 
 To run this project, you'll need:
 
-- Python 3.x
+- **Python 3.x**
   
-- Django (version 4.x or higher)
+- **Django (version 4.x or higher)**
   
-- Bootstrap 5.x (for styling, already included in the template)
+- **Bootstrap 5.x (for styling, already included in the template)**
   
-- A database (SQLite by default)
+- **A database (SQLite by default)**
 
-Step-by-Step Installation
-Clone the Repository
+## Step-by-Step Installation
 
-Clone the repository to your local machine using Git:
+- Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/tweet4u.git
-cd tweet4u
-Set Up a Virtual Environment
+    git clone https://github.com/your-username/tweet4u.git
+    cd tweet4u
+
+- Set Up a Virtual Environment
 
 It's recommended to use a virtual environment to manage project dependencies:
 
