@@ -1,8 +1,7 @@
 # Tweet4U
 
 **Tweet4U** is a `Django-based` web application that allows users to create and manage tweets, search for tweets, and view them in an interactive interface. The platform is
-
-built using the Django framework and utilizes Bootstrap for styling, ensuring a responsive and modern UI. This project aims to provide a simple and intuitive user 
+built using the `Django` framework and utilizes `Bootstrap` for `styling`, ensuring a `responsive` and `modern UI`. This project aims to provide a simple and intuitive user 
 experience while incorporating standard social media features.
 
 ## Features: 
