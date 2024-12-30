@@ -4,12 +4,16 @@
 built using the Django framework and utilizes Bootstrap for styling, ensuring a responsive and modern UI. This project aims to provide a simple and intuitive user 
 experience while incorporating standard social media features.
 
-Features
-User Authentication: Users can register, log in, and log out securely.
-Create Tweets: Authenticated users can post tweets.
-Search Tweets: Users can search for specific tweets using a search bar.
-Responsive UI: The application uses Bootstrap to ensure it is mobile-friendly and responsive.
-Dark Mode: The application is designed with a dark theme to ensure a comfortable viewing experience at night.
+## Features: 
+
+- **User Authentication**: Users can register, log in, and log out securely.
+  
+- **Create Tweets**: Authenticated users can post tweets.
+  
+- **Search Tweets**: Users can search for specific tweets using a search bar.
+  
+- **Responsive UI**: The application uses Bootstrap to ensure it is mobile-friendly and responsive.
+
 Installation
 Prerequisites
 To run this project, you'll need:
