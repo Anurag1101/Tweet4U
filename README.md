@@ -81,10 +81,14 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
     │   └── base.html      # Base template that includes header, footer, and navbar
     └── manage.py          # Django management script
 
-Key Files:
-base.html: The base HTML template for the application. Other pages like the homepage, create tweet, and search results extend this template to maintain a consistent layout and styling.
-tweet/create.html: Template for creating new tweets.
-tweet/index.html: Displays the list of tweets.
+## Key Files:
+
+- **base.html**: The base HTML template for the application. Other pages like the `homepage`, `create tweet`, and `search results` extend this template to maintain a consistent layout and styling.
+  
+- **tweet/create.html**: Template for creating new tweets.
+  
+- **tweet/index.html**: Displays the list of tweets.
+  
 Configuration
 Settings: The settings for the Django application can be found in the settings.py file. You can configure the database, static files, installed apps, etc., here.
 URL Routing: The urls.py files in both the project folder and the tweet app folder define the URL structure and routing for the application.
