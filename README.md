@@ -14,14 +14,17 @@ experience while incorporating standard social media features.
   
 - **Responsive UI**: The application uses Bootstrap to ensure it is mobile-friendly and responsive.
 
-Installation
-Prerequisites
+## Installation:
+
+### Prerequisites:
+
 To run this project, you'll need:
 
-Python 3.x
-Django (version 4.x or higher)
-Bootstrap 5.x (for styling, already included in the template)
-A database (SQLite by default)
+    Python 3.x
+    Django (version 4.x or higher)
+    Bootstrap 5.x (for styling, already included in the template)
+    A database (SQLite by default)
+
 Step-by-Step Installation
 Clone the Repository
 
