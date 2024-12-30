@@ -127,9 +127,12 @@ Open your web browser and go to `http://127.0.0.1:8000/` to access the applicati
   
 ## License:
 
-This project is licensed under the `MIT License` - see the LICENSE file for details.
+This project is licensed under the `MIT` License.
 
-Acknowledgments
-Django: For the powerful framework that helps in rapid web development.
-Bootstrap: For the responsive, mobile-first CSS framework.
-Icons: Some icons were sourced from free icon libraries.
+## Acknowledgments:
+
+- **Django:** For the powerful framework that helps in rapid web development.
+  
+- **Bootstrap:** For the responsive, mobile-first CSS framework.
+  
+- **Icons:** Some icons were sourced from free icon libraries.
